@@ -1,4 +1,4 @@
-# flutter_breaking
+# flutter_simple_movie_app
 
 A new Flutter project.
 
